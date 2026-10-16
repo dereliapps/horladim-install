@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://api.codemagic.io/artifacts/.eJwVwUtygjAAANC7dO9MhATiwgWMSEQ-IQUENk4FRSIEUhSDp-_0va_G-mdLMGSLi8F41d6EME9pn_lkBCGn0lkX3QV8Nm1F8DL2kmU3kr5UEu9yM9Kicda_aTIHKPRcIYFDjHdPqiK3o4eZFWgcrtSl1QEG60L6cwzuTb5vTG60Uen016kM9YOOOjjtWK_ltZ8IiTj0AGzscBEWOdaofpXPBEBMG8PgMt3p5mR7cRJUsnQgZmr5gWF6ijf68CJPuOLpeRrUBdytY61sxXpc0lnwbmjxTZyEgqv90cvz6M5WfttkHgo_bPDdcT5nXDxpi7s8ptHhd6OaBxov1nb79QeNFWFW.sWu8PY-14KKnFXl0iRbhV6yxy7g</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.dereli.horladimmi</string>
+        <key>bundle-version</key>
+        <string>1.1.0</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>Horladim mi</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
